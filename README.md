@@ -2,11 +2,11 @@
 
 Build a simple React app where users can fill out a pet adoption form and view the data in a table.
 
-# TO start this project
+# To start this project
 
-///
+```
 npm install
-///
+```
 
 # Overview
 
